@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<People>
+	<Person>
+		<Role>Field Rep</Role>
+		<Name>
+			<First>Joe</First>
+			<Last suffix="Jr.">Harris</Last>
+		</Name>
+		<WorkLocation type="office">
+			<StreetAddress></StreetAddress>
+			<City></City>
+			<State></State>
+			<Zip></Zip>
+			<Phone></Phone>
+		</WorkLocation>
+		<WorkLocation type="home">
+			<StreetAddress></StreetAddress>
+			<City></City>
+			<State></State>
+			<Zip></Zip>
+			<Phone></Phone>
+		</WorkLocation>
+	</Person>
+	<Person>
+		<Role>Field Rep</Role>
+		<Name>
+			<First>Taotao</First>
+			<Last>Lewis</Last>
+		</Name>
+		<WorkLocation type="office">
+			<StreetAddress>1212 Mapleridge Ave.</StreetAddress>
+			<City>West Chester</City>
+			<State>OH</State>
+			<Zip>45069</Zip>
+			<Phone>513-555-1212</Phone>
+		</WorkLocation>
+	</Person>
+
+	<Person>
+		<Role>Client</Role>
+		<Name>
+			<First>George</First>
+			<Last suffix="Sr.">Barris</Last>
+		</Name>
+		<WorkLocation type="office">
+			<StreetAddress></StreetAddress>
+			<City></City>
+			<State></State>
+			<Zip></Zip>
+			<Phone></Phone>
+		</WorkLocation>
+		<WorkLocation type="home">
+			<StreetAddress></StreetAddress>
+			<City></City>
+			<State></State>
+			<Zip></Zip>
+			<Phone></Phone>
+		</WorkLocation>
+		<Activities>
+			<Activity type="fishing">George is an expert fly fisher</Activity>
+		</Activities>
+		<Encounters>
+			<Encounter type="visit">George needs help with product understanding</Encounter>
+			<Encounter type="customer call">Wanted help</Encounter>
+		</Encounters>
+	</Person>
+</People>
