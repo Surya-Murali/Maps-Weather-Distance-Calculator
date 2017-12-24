@@ -1,0 +1,180 @@
+<People>
+  <Person id="491">
+    <Role>Client</Role>
+    <Name>
+      <First>Mike</First>
+      <Last>Sewad</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>Earlham Street</StreetAddress>
+      <City>London</City>
+      <State>UK</State>
+      <Zip>
+      </Zip>
+      <Phone>
+      </Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="69">
+    <Role>Client</Role>
+    <Name>
+      <First>Prakriti</First>
+      <Last>Saxena</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>6800 Cintas Blvd</StreetAddress>
+      <City>Mason</City>
+      <State>OH</State>
+      <Zip>45040</Zip>
+      <Phone>555-666-9999</Phone>
+    </WorkLocation>
+    <Encounters>
+      <Encounter type="eMail">Wanted to know the process to obtain life insurance</Encounter>
+      <Encounter type="Visit">Stopped by just to say hi</Encounter>
+      <Encounter type="Call">Inquiry into late payment date</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="4">
+    <Role>Client</Role>
+    <Name>
+      <First>Taotao</First>
+      <Last>Lu</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>623 High St</StreetAddress>
+      <City>Worthington</City>
+      <State>OH</State>
+      <Zip>43085</Zip>
+      <Phone>513-444-4444</Phone>
+    </WorkLocation>
+    <Encounters>
+      <Encounter type="Call">Add corvette to auto policy</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="666">
+    <Role>Client</Role>
+    <Name>
+      <First>William</First>
+      <Last suffix="III">Chaudhary</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>777 Bannock St</StreetAddress>
+      <City>Denver</City>
+      <State>CO</State>
+      <Zip>80204</Zip>
+      <Phone>555-666-6666</Phone>
+    </WorkLocation>
+    <Activities>
+      <Activity type="fishing">George is an expert fly fisher</Activity>
+    </Activities>
+    <Encounters>
+      <Encounter type="Visit">William needed help with Page 64, subsection 12, Part B</Encounter>
+      <Encounter type="Call">Wanted help</Encounter>
+      <Encounter type="Visit">test</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="50">
+    <Role>Client</Role>
+    <Name>
+      <First>Siddharth</First>
+      <Last suffix="IV">Dalal</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>926 Old Mason St</StreetAddress>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94129</Zip>
+      <Phone>555-555-0000</Phone>
+    </WorkLocation>
+    <Encounters>
+      <Encounter type="Call">Needed email address</Encounter>
+      <Encounter type="Call">hi</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="8">
+    <Role>Client</Role>
+    <Name>
+      <First>Diksha</First>
+      <Last>Dawani</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>201 Dowman Dr</StreetAddress>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30322</Zip>
+      <Phone>555-888-8888</Phone>
+    </WorkLocation>
+    <Encounters>
+      <Encounter type="Call">Wanted the phone number of the main office</Encounter>
+      <Encounter type="eMail">tell</Encounter>
+      <Encounter type="Visit">hello</Encounter>
+      <Encounter type="Visit">test</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="96">
+    <Role>Client</Role>
+    <Name>
+      <First>Neerja</First>
+      <Last>Tarey</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>1852 W 19th St</StreetAddress>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60608</Zip>
+      <Phone>555-999-6666</Phone>
+    </WorkLocation>
+    <Encounters>
+      <Encounter type="Text">Was hoping to win the lottery by sending the lottery numbers</Encounter>
+      <Encounter type="Call">Change of address</Encounter>
+      <Encounter type="Visit">test</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="18">
+    <Role>Client</Role>
+    <Name>
+      <First>Parsotam</First>
+      <Last>Hilbert</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>6501 Vegas Dr</StreetAddress>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89108</Zip>
+      <Phone>555-111-8888</Phone>
+    </WorkLocation>
+    <Encounters>
+      <Encounter type="Visit">adding</Encounter>
+      <Encounter type="Visit">adding</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="764">
+    <Role>Client</Role>
+    <Name>
+      <First>Suchismita</First>
+      <Last>Joshi</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>406 Main St</StreetAddress>
+      <City>Rising Sun</City>
+      <State>IN</State>
+      <Zip>47040</Zip>
+      <Phone>
+      </Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="432">
+    <Role>Client</Role>
+    <Name>
+      <First>Sanjay</First>
+      <Last>Lippert</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>131 Aldine Bender Rd</StreetAddress>
+      <City>Houston</City>
+      <State>TX</State>
+      <Zip>77060</Zip>
+      <Phone>555-444-3322</Phone>
+    </WorkLocation>
+  </Person>
+</People>

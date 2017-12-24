@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Weather>
+	<current>
+		<city id="2643743"  name="London">
+			<coord lon="-0.13" lat="51.51"></coord>
+			<country>GB</country>
+			<sun rise="2017-10-20T06:34:09" set="2017-10-20T16:55:20"></sun>
+		</city>
+		<temperature value="286.6" min="285.15" max="287.15" unit="kelvin"></temperature>
+		<humidity value="71" unit="%"></humidity>
+		<pressure value="1007" unit="hPa"></pressure>
+		<wind>
+			<speed value="8.2" name="Fresh Breeze"></speed>
+			<gusts></gusts>
+			<direction value="240" code="WSW" name="West-southwest"></direction>
+		</wind>
+		<clouds value="90" name="overcast clouds"></clouds>
+		<visibility value="10000"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="804" value="overcast clouds" icon="04d"></weather>
+		<lastupdate value="2017-10-20T12:23:00"></lastupdate>
+	</current>
+
+	<current>
+		<city id="4508722" name="Cincinnati">
+			<coord lon="-84.46" lat="39.16"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T11:53:27" set="2017-10-20T22:50:52"></sun>
+		</city>
+		<temperature value="282.49" min="281.15" max="284.15" unit="kelvin"></temperature>
+		<humidity value="100" unit="%"></humidity>
+		<pressure value="1027" unit="hPa"></pressure>
+		<wind>
+			<speed value="1.01" name="Calm"></speed>
+			<gusts></gusts>
+			<direction value="201.501" code="SSW" name="South-southwest"></direction>
+		</wind>
+		<clouds value="90" name="overcast clouds"></clouds>
+		<visibility value="402"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="741" value="fog" icon="50d"></weather>
+		<lastupdate value="2017-10-20T12:55:00"></lastupdate>
+	</current>
+
+	<current>
+		<city id="4504022" name="Mason">
+			<coord lon="-84.325418" lat="39.3474209"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T11:53:27" set="2017-10-20T22:50:52"></sun>
+		</city>
+		<temperature value="280.10" min="280.10" max="284.15" unit="kelvin"></temperature>
+		<humidity value="99" unit="%"></humidity>
+		<pressure value="1001" unit="hPa"></pressure>
+		<wind>
+			<speed value="1.01" name="Calm"></speed>
+			<gusts></gusts>
+			<direction value="201.501" code="SSW" name="South-southwest"></direction>
+		</wind>
+		<clouds value="88" name="overcast clouds"></clouds>
+		<visibility value="402"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="741" value="fog" icon="50d"></weather>
+		<lastupdate value="2017-10-20T12:55:00"></lastupdate>
+	</current>
+
+	<current>
+		<city id="4509177" name="Columbus">
+			<coord lon="-83" lat="39.96"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T11:48:35" set="2017-10-20T22:44:02"></sun>
+		</city>
+		<temperature value="281.7" min="281.15" max="283.15" unit="kelvin"></temperature>
+		<humidity value="93" unit="%"></humidity>
+		<pressure value="1026" unit="hPa"></pressure>
+		<wind>
+			<speed value="1.31" name="Calm"></speed>
+			<gusts></gusts>
+			<direction value="334.001" code="NNW" name="North-northeast"></direction>
+		</wind>
+		<clouds value="20" name="few clouds"></clouds>
+		<visibility value="11265"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="701" value="mist" icon="50d"></weather>
+		<lastupdate value="2017-10-20T12:56:00"></lastupdate>
+	</current>
+
+	<current>
+		<city id="4308577" name="Worthington">
+			<coord lon="-83" lat="40.96"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T11:48:35" set="2017-10-20T22:44:02"></sun>
+		</city>
+		<temperature value="282.7" min="281.15" max="283.15" unit="kelvin"></temperature>
+		<humidity value="56" unit="%"></humidity>
+		<pressure value="1026" unit="hPa"></pressure>
+		<wind>
+			<speed value="2.31" name="Calm"></speed>
+			<gusts></gusts>
+			<direction value="334.001" code="NNW" name="North-northeast"></direction>
+		</wind>
+		<clouds value="25" name="few clouds"></clouds>
+		<visibility value="11265"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="701" value="mist" icon="50d"></weather>
+		<lastupdate value="2017-10-20T12:56:00"></lastupdate>
+	</current>
+
+
+	<current>
+		<city id="5150529" name="Cleveland">
+			<coord lon="-81.7" lat="41.5"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T11:45:20" set="2017-10-20T22:36:52"></sun>
+		</city>
+		<temperature value="280.03" min="278.15" max="283.15" unit="kelvin"></temperature>
+		<humidity value="100" unit="%"></humidity>
+		<pressure value="1025" unit="hPa"></pressure>
+		<wind>
+			<speed value="1.21" name="Calm"></speed>
+			<gusts></gusts>
+			<direction value="354.001" code="" name=""></direction>
+		</wind>
+		<clouds value="1" name="clear sky"></clouds>
+		<visibility value="16093"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="701" value="mist" icon="50d"></weather>
+		<lastupdate value="2017-10-20T12:15:00"></lastupdate>
+	</current>
+
+
+	<current>
+		<city id="5419384" name="Denver">
+			<coord lon="-104.98" lat="39.74"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T13:16:18" set="2017-10-21T00:12:09"></sun>
+		</city>
+		<temperature value="281.27" min="273.15" max="286.15" unit="kelvin"></temperature>
+		<humidity value="60" unit="%"></humidity>
+		<pressure value="1009" unit="hPa"></pressure>
+		<wind>
+			<speed value="2.96" name="Light breeze"></speed>
+			<gusts></gusts>
+			<direction value="244.001" code="WSW" name="West-southwest"></direction>
+		</wind>
+		<clouds value="1" name="clear sky"></clouds>
+		<visibility value="16093"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="800" value="clear sky" icon="01n"></weather>
+		<lastupdate value="2017-10-20T12:36:00"></lastupdate>
+	</current>
+
+
+
+	<current>
+		<city id="5391959" name="San Francisco">
+			<coord lon="-122.42" lat="37.77"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T14:23:45" set="2017-10-21T01:24:14"></sun>
+		</city>
+		<temperature value="284.99" min="283.15" max="286.15" unit="kelvin"></temperature>
+		<humidity value="93" unit="%"></humidity>
+		<pressure value="1017" unit="hPa"></pressure>
+		<wind>
+			<speed value="2.6" name="Light breeze"></speed>
+			<gusts></gusts>
+			<direction value="80" code="E" name="East"></direction>
+		</wind>
+		<clouds value="40" name="scattered clouds"></clouds>
+		<visibility value="16093"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="701" value="mist" icon="50n"></weather>
+		<lastupdate value="2017-10-20T12:39:00"></lastupdate>
+	</current>
+
+	<current>
+		<city id="9496559" name="Sausalito">
+			<coord lon="-122.42" lat="35.77"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T14:23:45" set="2017-10-21T01:24:14"></sun>
+		</city>
+		<temperature value="283.15" min="283.15" max="286.15" unit="kelvin"></temperature>
+		<humidity value="99" unit="%"></humidity>
+		<pressure value="1017" unit="hPa"></pressure>
+		<wind>
+			<speed value="4.6" name="Light breeze"></speed>
+			<gusts></gusts>
+			<direction value="80" code="E" name="East"></direction>
+		</wind>
+		<clouds value="40" name="scattered clouds"></clouds>
+		<visibility value="16093"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="701" value="mist" icon="50n"></weather>
+		<lastupdate value="2017-10-20T12:39:00"></lastupdate>
+	</current>
+
+
+	<current>
+		<city id="4180439" name="Atlanta">
+			<coord lon="-84.39" lat="33.75"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T11:47:05" set="2017-10-20T22:56:46"></sun>
+		</city>
+		<temperature value="280.14" min="278.15" max="284.15" unit="kelvin"></temperature>
+		<humidity value="93" unit="%"></humidity>
+		<pressure value="1026" unit="hPa"></pressure>
+		<wind>
+			<speed value="1.5" name="Calm"></speed>
+			<gusts></gusts>
+			<direction value="40" code="NE" name="NorthEast"></direction>
+		</wind>
+		<clouds value="1" name="clear sky"></clouds>
+		<visibility value="16093"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="701" value="mist" icon="50d"></weather>
+		<lastupdate value="2017-10-20T12:35:00"></lastupdate>
+	</current>
+
+
+
+	<current>
+		<city id="4887398" name="Chicago">
+			<coord lon="-87.65" lat="41.85"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T12:09:36" set="2017-10-20T23:00:11"></sun>
+		</city>
+		<temperature value="283.87" min="281.15" max="287.15" unit="kelvin"></temperature>
+		<humidity value="87" unit="%"></humidity>
+		<pressure value="1022" unit="hPa"></pressure>
+		<wind>
+			<speed value="5.36" name="Gentle Breeze"></speed>
+			<gusts></gusts>
+			<direction value="202.501" code="SSW" name="South-southwest"></direction>
+		</wind>
+		<clouds value="1" name="clear sky"></clouds>
+		<visibility value="16093"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="800" value="clear sky" icon="01d"></weather>
+		<lastupdate value="2017-10-20T12:35:00"></lastupdate>
+	</current>
+
+
+
+	<current>
+		<city id="5506956" name="Las Vegas">
+			<coord lon="-115.14" lat="36.17"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T13:52:47" set="2017-10-21T00:57:00"></sun>
+		</city>
+		<temperature value="293.38" min="292.15" max="295.15" unit="kelvin"></temperature>
+		<humidity value="35" unit="%"></humidity>
+		<pressure value="1005" unit="hPa"></pressure>
+		<wind>
+			<speed value="7.2" name="Moderate breeze"></speed>
+			<gusts value="12.3"></gusts>
+			<direction value="180" code="S" name="South"></direction>
+		</wind>
+		<clouds value="20" name="few clouds"></clouds>
+		<visibility value="16093"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="801" value="few clouds" icon="02n"></weather>
+		<lastupdate value="2017-10-20T12:56:00"></lastupdate>
+	</current>
+
+
+	<current>
+		<city id="4263736" name="Rising Sun">
+			<coord lon="-84.85" lat="38.95"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T11:54:46" set="2017-10-20T22:52:41"></sun>
+		</city>
+		<temperature value="281.83" min="281.15" max="282.15" unit="kelvin"></temperature>
+		<humidity value="100" unit="%"></humidity>
+		<pressure value="1027" unit="hPa"></pressure>
+		<wind>
+			<speed value="1.01" name="Calm"></speed>
+			<gusts></gusts>
+			<direction value="201.501" code="SSW" name="South-southwest"></direction>
+		</wind>
+		<clouds value="90" name="overcast clouds"></clouds>
+		<visibility value="402"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="701" value="mist" icon="50d"></weather>
+		<lastupdate value="2017-10-20T12:53:00"></lastupdate>
+	</current>
+
+
+
+	<current>
+		<city id="4699066" name="Houston">
+			<coord lon="-95.36" lat="29.76"></coord>
+			<country>US</country>
+			<sun rise="2017-10-20T12:26:58" set="2017-10-20T23:44:42"></sun>
+		</city>
+		<temperature value="295.05" min="294.15" max="296.15" unit="kelvin"></temperature>
+		<humidity value="88" unit="%"></humidity>
+		<pressure value="1017" unit="hPa"></pressure>
+		<wind>
+			<speed value="2.6" name="Light breeze"></speed>
+			<gusts></gusts>
+			<direction value="60" code="ENE" name="East-northeast"></direction>
+		</wind>
+		<clouds value="75" name="broken clouds"></clouds>
+		<visibility value="16093"></visibility>
+		<precipitation mode="no"></precipitation>
+		<weather number="211" value="thunderstorm" icon="11n"></weather>
+		<lastupdate value="2017-10-20T12:26:00"></lastupdate>
+	</current>
+</Weather>
+

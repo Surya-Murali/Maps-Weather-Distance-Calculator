@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="People" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="People" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+		<xs:complexType>
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element name="Person">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Role"  minOccurs="1">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="Field Rep" />
+										<xs:enumeration value="Client" />
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="Name" minOccurs="1" maxOccurs="1">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="First" nillable="true" type="xs:string" minOccurs="0" maxOccurs="1" />
+										<xs:element name="Last" nillable="true" minOccurs="0" maxOccurs="1">
+											<xs:complexType>
+												<xs:simpleContent msdata:ColumnName="Last_Text" msdata:Ordinal="1">
+													<xs:extension base="xs:string">
+														<xs:attribute name="suffix" type="xs:string" />
+													</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="WorkLocation" minOccurs="1" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="StreetAddress" type="xs:string" minOccurs="0" msdata:Ordinal="0" />
+										<xs:element name="City" type="xs:string" minOccurs="0" msdata:Ordinal="1" />
+										<xs:element name="State" type="xs:string" minOccurs="0" msdata:Ordinal="2" />
+										<xs:element name="Zip" type="xs:string" minOccurs="0" msdata:Ordinal="3" />
+										<xs:element name="Phone" type="xs:string" minOccurs="0" msdata:Ordinal="4" />
+									</xs:sequence>
+									<xs:attribute name="type">
+										<xs:simpleType>
+											<xs:restriction base="xs:string">
+												<xs:enumeration value="Office" />
+												<xs:enumeration value="Home" />
+												<xs:enumeration value="Satellite" />
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:attribute>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Activities" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Activity" nillable="true" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:simpleContent msdata:ColumnName="Activity_Text" msdata:Ordinal="1">
+													<xs:extension base="xs:string">
+														<xs:attribute name="type" type="xs:string" />
+													</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Encounters" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Encounter" nillable="true" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:simpleContent msdata:ColumnName="Encounter_Text" msdata:Ordinal="1">
+													<xs:extension base="xs:string">
+														<xs:attribute name="type" type="EncounterType" />
+													</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:unsignedShort" use="required" />
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	<xs:simpleType name="EncounterType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Visit" />
+			<xs:enumeration value="Call" />
+			<xs:enumeration value="eMail" />
+			<xs:enumeration value="Text" />
+		</xs:restriction>
+	</xs:simpleType>
+
+
+</xs:schema>

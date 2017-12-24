@@ -1,0 +1,118 @@
+﻿<People>
+	<Person id="1">
+		<Role>Field Rep</Role>
+		<Name>
+			<First>Mark</First>
+			<Last suffix="Jr.">Harris</Last>
+		</Name>
+		<WorkLocation type="Office">
+			<StreetAddress>421 N High St</StreetAddress>
+			<City>Rising Sun</City>
+			<State>IN</State>
+			<Zip>47040</Zip>
+			<Phone>
+			</Phone>
+		</WorkLocation>
+		<WorkLocation type="Home">
+			<StreetAddress>630 Wilson St.</StreetAddress>
+			<City>Rising Sun</City>
+			<State>IN</State>
+			<Zip>47040</Zip>
+			<Phone>
+			</Phone>
+		</WorkLocation>
+	</Person>
+	<Person id="2">
+		<Role>Field Rep</Role>
+		<Name>
+			<First>Taotao</First>
+			<Last>Lu</Last>
+		</Name>
+		<WorkLocation type="Office">
+			<StreetAddress>6900 Smith Rd.</StreetAddress>
+			<City>Denver</City>
+			<State>CO</State>
+			<Zip>80207</Zip>
+			<Phone>513-555-1212</Phone>
+		</WorkLocation>
+	</Person>
+	<Person id="3">
+		<Role>Client</Role>
+		<Name>
+			<First>Markos</First>
+			<Last suffix="Sr.">Rhodensky</Last>
+		</Name>
+		<WorkLocation type="Office">
+			<StreetAddress>179 Gloudester Ave</StreetAddress>
+			<City>London</City>
+			<State>
+			</State>
+			<Zip>
+			</Zip>
+			<Phone>
+			</Phone>
+		</WorkLocation>
+		<WorkLocation type="Home">
+			<StreetAddress>6-2 Berkley Rd</StreetAddress>
+			<City>London</City>
+			<State>
+			</State>
+			<Zip>
+			</Zip>
+			<Phone>
+			</Phone>
+		</WorkLocation>
+		<Activities>
+			<Activity type="fishing">George is an expert fly fisher</Activity>
+		</Activities>
+		<Encounters>
+			<Encounter type="Visit">George needs help with product understanding</Encounter>
+			<Encounter type="Visit">Wanted help</Encounter>
+		</Encounters>
+	</Person>
+	<Person id="11">
+		<Role>Field Rep</Role>
+		<Name>
+			<First>Maria</First>
+			<Last>Lager</Last>
+		</Name>
+		<WorkLocation type="Office">
+			<StreetAddress>421 N High St</StreetAddress>
+			<City>Rising Sun</City>
+			<State>IN</State>
+			<Zip>47040</Zip>
+			<Phone>
+			</Phone>
+		</WorkLocation>
+		<WorkLocation type="Home">
+			<StreetAddress>630 Wilson St.</StreetAddress>
+			<City>Rising Sun</City>
+			<State>IN</State>
+			<Zip>47040</Zip>
+			<Phone>555-614-6666</Phone>
+		</WorkLocation>
+	</Person>
+	<Person id="111">
+		<Role>Field Rep</Role>
+		<Name>
+			<First>Warren</First>
+			<Last suffix="Jr.">Dawes</Last>
+		</Name>
+		<WorkLocation type="Office">
+			<StreetAddress>421 N High St</StreetAddress>
+			<City>Rising Sun</City>
+			<State>IN</State>
+			<Zip>47040</Zip>
+			<Phone>
+			</Phone>
+		</WorkLocation>
+		<WorkLocation type="Home">
+			<StreetAddress>630 Wilson St.</StreetAddress>
+			<City>Rising Sun</City>
+			<State>IN</State>
+			<Zip>47040</Zip>
+			<Phone>
+			</Phone>
+		</WorkLocation>
+	</Person>
+</People>
