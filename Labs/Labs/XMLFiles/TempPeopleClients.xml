@@ -1,0 +1,373 @@
+<People>
+  <Person id="491">
+    <Role>Client</Role>
+    <Name>
+      <First>Mike</First>
+      <Last>Sewad</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>Earlham Street</StreetAddress>
+      <City>London</City>
+      <State>UK</State>
+      <Zip>
+      </Zip>
+      <Phone>
+      </Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="1">
+    <Role>Field Rep</Role>
+    <Name>
+      <First>Xinyu</First>
+      <Last suffix="Sr.">Adhikari</Last>
+    </Name>
+    <WorkLocation type="Home">
+      <StreetAddress>13111 Cottingham St</StreetAddress>
+      <City>Houston</City>
+      <State>TX</State>
+      <Zip>77048</Zip>
+      <Phone>555-111-1111</Phone>
+    </WorkLocation>
+    <WorkLocation type="Office">
+      <StreetAddress>5002 Almeda-Genoa Rd</StreetAddress>
+      <City>Houston</City>
+      <State>TX</State>
+      <Zip>77048</Zip>
+      <Phone>
+      </Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="69">
+    <Role>Client</Role>
+    <Name>
+      <First>Prakriti</First>
+      <Last>Saxena</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>6800 Cintas Blvd</StreetAddress>
+      <City>Mason</City>
+      <State>OH</State>
+      <Zip>45040</Zip>
+      <Phone>555-666-9999</Phone>
+    </WorkLocation>
+    <Encounters>
+      <Encounter type="eMail">Wanted to know the process to obtain life insurance</Encounter>
+      <Encounter type="Visit">Stopped by just to say hi</Encounter>
+      <Encounter type="Call">Inquiry into late payment date</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="4">
+    <Role>Client</Role>
+    <Name>
+      <First>Taotao</First>
+      <Last>Lu</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>623 High St</StreetAddress>
+      <City>Worthington</City>
+      <State>OH</State>
+      <Zip>43085</Zip>
+      <Phone>513-444-4444</Phone>
+    </WorkLocation>
+    <Encounters>
+      <Encounter type="Call">Add corvette to auto policy</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="666">
+    <Role>Client</Role>
+    <Name>
+      <First>William</First>
+      <Last suffix="III">Chaudhary</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>777 Bannock St</StreetAddress>
+      <City>Denver</City>
+      <State>CO</State>
+      <Zip>80204</Zip>
+      <Phone>555-666-6666</Phone>
+    </WorkLocation>
+    <Activities>
+      <Activity type="fishing">George is an expert fly fisher</Activity>
+    </Activities>
+    <Encounters>
+      <Encounter type="Visit">William needed help with Page 64, subsection 12, Part B</Encounter>
+      <Encounter type="Call">Wanted help</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="23">
+    <Role>Field Rep</Role>
+    <Name>
+      <First>Maria</First>
+      <Last>Lager</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>1100 E 9th St</StreetAddress>
+      <City>Rising Sun</City>
+      <State>IN</State>
+      <Zip>44114</Zip>
+      <Phone>555-222-3333</Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="50">
+    <Role>Client</Role>
+    <Name>
+      <First>Siddharth</First>
+      <Last suffix="IV">Dalal</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>926 Old Mason St</StreetAddress>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94129</Zip>
+      <Phone>555-555-0000</Phone>
+    </WorkLocation>
+    <Encounters>
+      <Encounter type="Call">Needed email address</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="831">
+    <Role>Field Rep</Role>
+    <Name>
+      <First>Reddy</First>
+      <Last>Sham</Last>
+    </Name>
+    <WorkLocation type="Home">
+      <StreetAddress>490 Westover Dr NW</StreetAddress>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30305</Zip>
+      <Phone>555-888-3311</Phone>
+    </WorkLocation>
+    <WorkLocation type="Office">
+      <StreetAddress>2184 Alvin Dr NW</StreetAddress>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30318</Zip>
+      <Phone>
+      </Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="8">
+    <Role>Client</Role>
+    <Name>
+      <First>Diksha</First>
+      <Last>Dawani</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>201 Dowman Dr</StreetAddress>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30322</Zip>
+      <Phone>555-888-8888</Phone>
+    </WorkLocation>
+    <Encounters>
+      <Encounter type="Call">Wanted the phone number of the main office</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="96">
+    <Role>Client</Role>
+    <Name>
+      <First>Neerja</First>
+      <Last>Tarey</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>1852 W 19th St</StreetAddress>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60608</Zip>
+      <Phone>555-999-6666</Phone>
+    </WorkLocation>
+    <Encounters>
+      <Encounter type="Text">Was hoping to win the lottery by sending the lottery numbers</Encounter>
+      <Encounter type="Call">Change of address</Encounter>
+    </Encounters>
+  </Person>
+  <Person id="18">
+    <Role>Client</Role>
+    <Name>
+      <First>Parsotam</First>
+      <Last>Hilbert</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>6501 Vegas Dr</StreetAddress>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89108</Zip>
+      <Phone>555-111-8888</Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="764">
+    <Role>Client</Role>
+    <Name>
+      <First>Suchismita</First>
+      <Last>Joshi</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>406 Main St</StreetAddress>
+      <City>Rising Sun</City>
+      <State>IN</State>
+      <Zip>47040</Zip>
+      <Phone>
+      </Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="432">
+    <Role>Client</Role>
+    <Name>
+      <First>Sanjay</First>
+      <Last>Lippert</Last>
+    </Name>
+    <WorkLocation type="Office">
+      <StreetAddress>131 Aldine Bender Rd</StreetAddress>
+      <City>Houston</City>
+      <State>TX</State>
+      <Zip>77060</Zip>
+      <Phone>555-444-3322</Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="2">
+    <Role>Field Rep</Role>
+    <Name>
+      <First>Eash</First>
+      <Last>Basnayake</Last>
+    </Name>
+    <WorkLocation type="Home">
+      <StreetAddress>2114 Danville Dr</StreetAddress>
+      <City>Cincinnati</City>
+      <State>OH</State>
+      <Zip>45233</Zip>
+      <Phone>
+      </Phone>
+    </WorkLocation>
+    <WorkLocation type="Office">
+      <StreetAddress>21 W Daniels St</StreetAddress>
+      <City>Cincinnati</City>
+      <State>OH</State>
+      <Zip>45219</Zip>
+      <Phone>
+      </Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="88">
+    <Role>Field Rep</Role>
+    <Name>
+      <First>James</First>
+      <Last>Nangia</Last>
+    </Name>
+    <WorkLocation type="Home">
+      <StreetAddress>2115 Silverdale Ave</StreetAddress>
+      <City>Cleveland</City>
+      <State>OH</State>
+      <Zip>44109</Zip>
+      <Phone>
+      </Phone>
+    </WorkLocation>
+    <WorkLocation type="Office">
+      <StreetAddress>16704 Laverne Ave</StreetAddress>
+      <City>Cleveland</City>
+      <State>OH</State>
+      <Zip>44135</Zip>
+      <Phone>555-888-8888</Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="71">
+    <Role>Field Rep</Role>
+    <Name>
+      <First>Kaushik</First>
+      <Last>Pandya</Last>
+    </Name>
+    <WorkLocation type="Home">
+      <StreetAddress>3009 E 8th Ave</StreetAddress>
+      <City>Columbus</City>
+      <State>OH</State>
+      <Zip>43219</Zip>
+      <Phone>555-777-1111</Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="35">
+    <Role>Field Rep</Role>
+    <Name>
+      <First>Anurag</First>
+      <Last>Raina</Last>
+    </Name>
+    <WorkLocation type="Home">
+      <StreetAddress>2707 S Osceola Way</StreetAddress>
+      <City>Denver</City>
+      <State>CO</State>
+      <Zip>80236</Zip>
+      <Phone>555-333-5555</Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="131">
+    <Role>Field Rep</Role>
+    <Name>
+      <First>Prakask</First>
+      <Last>Sachan</Last>
+    </Name>
+    <WorkLocation type="Home">
+      <StreetAddress>59 Alexander Ave</StreetAddress>
+      <City>Sausalito</City>
+      <State>CA</State>
+      <Zip>94965</Zip>
+      <Phone>555-111-3311</Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="380">
+    <Role>Field Rep</Role>
+    <Name>
+      <First>Kausthob</First>
+      <Last>Sharma</Last>
+    </Name>
+    <WorkLocation type="Home">
+      <StreetAddress>6624 N Rockwell St</StreetAddress>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60645</Zip>
+      <Phone>555-333-8800</Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="183">
+    <Role>Field Rep</Role>
+    <Name>
+      <First>Hansel</First>
+      <Last>Singh</Last>
+    </Name>
+    <WorkLocation type="Home">
+      <StreetAddress>4609 Montebello Ave</StreetAddress>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89110</Zip>
+      <Phone>555-111-8833</Phone>
+    </WorkLocation>
+    <WorkLocation type="Office">
+      <StreetAddress>1401 Meteorite Cir</StreetAddress>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89128</Zip>
+      <Phone>
+      </Phone>
+    </WorkLocation>
+  </Person>
+  <Person id="557">
+    <Role>Field Rep</Role>
+    <Name>
+      <First>Vinay</First>
+      <Last>Gross</Last>
+    </Name>
+    <WorkLocation type="Home">
+      <StreetAddress>830 Wilson</StreetAddress>
+      <City>Rising Sun</City>
+      <State>IN</State>
+      <Zip>47040</Zip>
+      <Phone>555-555-5577</Phone>
+    </WorkLocation>
+    <WorkLocation type="Office">
+      <StreetAddress>210 S Henrietta St</StreetAddress>
+      <City>Rising Sun</City>
+      <State>IN</State>
+      <Zip>47040</Zip>
+      <Phone>
+      </Phone>
+    </WorkLocation>
+  </Person>
+</People>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="People" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="People" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+		<xs:complexType>
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element name="Person" maxOccurs="50">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Role" type="xs:string" />
+							<xs:element name="Name" >
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="First" type="xs:string" />
+										<xs:element name="Last" >
+											<xs:complexType>
+												<xs:simpleContent >
+													<xs:extension base="xs:string">
+														<xs:attribute name="suffix" type="xs:string" />
+													</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="WorkLocation" maxOccurs="5">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="StreetAddress" type="xs:string" />
+										<xs:element name="City" type="xs:string"  />
+										<xs:element name="State" type="xs:string"  />
+										<xs:element name="Zip" type="xs:string"  />
+										<xs:element name="Phone" type="xs:string"  />
+									</xs:sequence>
+									<xs:attribute name="type" type="xs:string" />
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Activities" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Activity" >
+											<xs:complexType>
+												<xs:simpleContent >
+													<xs:extension base="xs:string">
+														<xs:attribute name="type" type="xs:string" />
+													</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Encounters" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Encounter"  maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:simpleContent >
+													<xs:extension base="xs:string">
+														<xs:attribute name="type" type="xs:string" />
+													</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
